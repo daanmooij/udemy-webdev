@@ -1,0 +1,23 @@
+body {
+    width: 70%;
+    margin: auto;
+    padding: 1em;
+    border: 1em solid #bdc3c7;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.date {
+    text-transform: uppercase;
+    color: #3498db;
+}
+
+h2 {
+    color: #2c3e50;
+    font-weight: bold;
+    font-size: 1.6em;
+}
+
+.post p:nth-of-type(1) {
+    border-left: .5em solid #bdc3c7;
+    padding: .5em;
+}
